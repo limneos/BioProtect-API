@@ -3,7 +3,7 @@ API for launching protected applications and folders through BioProtect
 
 BioProtect protects user-specified applications using TouchID or a passcode.
 
-In order for you application/tweak to be compatible with BioProtect, you need to check with BioProtect if an applicaiton is protected, and if it is protected, then launch the application via BioProtect launch methods instead of manually calling your own launch methods.
+In order for you application/tweak to be compatible with BioProtect, you need to check with BioProtect if an application is protected, and if it is protected, then launch the application via BioProtect launch methods instead of manually calling your own launch methods.
 
 Public API methods
 -------------------
